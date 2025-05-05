@@ -31,3 +31,7 @@ This example highlights how **datasets can drive development in Generative AI pr
 ---
 
 **See [generative-learning.ipynb](generative-learning.ipynb)**
+
+---
+
+If you liked this demo and are looking for more, visit my [AI Expertise hub](https://ai.intellectronica.net/) and [subscribe to my newsletter](https://sub.ai.intellectronica.net/) (low volume, high value).
