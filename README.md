@@ -30,7 +30,7 @@ This example highlights how **datasets can drive development in Generative AI pr
 
 ---
 
-**See [generative-learning.ipynb](generative-learning.ipynb)**
+**See [generative-learning.ipynb](generative-learning.ipynb)** ( [📔](https://nbsanity.com/intellectronica/generative-learning/blob/main/generative-learning.ipynb) )
 
 ---
 
